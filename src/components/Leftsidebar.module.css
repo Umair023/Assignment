@@ -1,0 +1,24 @@
+.p{
+  color: #F4F5F1;
+  width: 10%;
+}
+.mainleftBarCSS{
+  margin-top: -8px;
+}
+.leftsideCSS{
+  padding-left: 10px;
+  margin-left: 10px;
+  height: 80%;
+  color: #F4F5F1;
+  margin-top: 10px;
+}
+.button{
+  background-color: #FCAF17;
+  border-radius: 25px;
+  padding: 10px;
+  border: none;
+}
+.secLeftBar{
+  color: #F4F5F1;
+  margin-top: 20px;
+}

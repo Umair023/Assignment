@@ -1,0 +1,38 @@
+.centerCSS{
+  color: #20262C;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.mydiv{
+  border: 1px solid black;
+  height: auto;
+  width: 90%;
+  
+  background-image: url("./images/burger.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  border-radius: 20px;
+  
+}
+.mydivOverlay{
+  background-color: rgba(0, 0, 0, 0.8);
+  width: 100%;
+  height: auto;
+  color: white;
+}
+.line{
+  
+  width: 200px; /* Adjust the width as needed */
+  height: 6px; /* Adjust the height as needed */
+  background-image: linear-gradient(to right, #FCAF17 50%, white 50%);
+}
+a:link{
+  color: white;
+  
+}
+.alink{
+  text-decoration: none;
+  margin-left: 20px;
+}
